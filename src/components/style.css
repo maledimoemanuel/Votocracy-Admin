@@ -1,0 +1,10 @@
+.sidebar{
+    width: 220px;
+}
+
+.list-group a:hover{
+    background-color: rgb(127, 68, 168);
+    color: white;
+    border-radius: 1rem;
+    cursor:pointer
+}
